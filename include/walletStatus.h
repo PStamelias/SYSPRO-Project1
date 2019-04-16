@@ -1,0 +1,1 @@
+int walletStatus(struct walletId* wallet,int size,char* name);
